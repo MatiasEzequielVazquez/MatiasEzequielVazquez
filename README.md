@@ -10,7 +10,3 @@ My name is Matias, I'm a developer enthusiast from Argentina
 * C#
 * Microsoft Power tools
 * Critical thinking, decision-making and problem solving skills
-
-## Contact
-
-Find my resume in my [@LinkedIn](www.linkedin.com/in/matias-e-vazquez) profile.
