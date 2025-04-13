@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub!
 
-Hi! I'm **Matías**, an aspiring **Software Developer** from Argentina 🇦🇷.
+Hi! I'm **Matías**, a software developer in training from Argentina 🇦🇷, passionate about learning and building things with code.
 
 Currently, I work at [@Kyndryl](https://www.kyndryl.com/us/en) as an **Accounting Systems Analyst**, where I deal with SAP FI configurations, foreign currency valuation and translation, and automation of financial processes.
 
