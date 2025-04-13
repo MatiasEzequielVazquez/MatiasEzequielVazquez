@@ -39,4 +39,4 @@ I’m working on projects like:
 
 ## 🤝 Let's connect!
 
-If you're on a similar journey, have advice to share, or think I could be a good fit for a project, feel free to reach out through [**Email Me**](mailto:vazquez.matias.e@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/matias-e-vazquez/) — I'm always open to learning and collaborating!
+If you're on a similar journey, have advice to share, or think I could be a good fit for a project, feel free to reach out through [**Email**](mailto:vazquez.matias.e@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/matias-e-vazquez/) — I'm always open to learning and collaborating!
