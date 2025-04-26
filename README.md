@@ -4,7 +4,7 @@ Hi! I'm **Matías**, a software developer in training from Argentina 🇦🇷, p
 
 Currently, I work at [@Kyndryl](https://www.kyndryl.com/us/en) as an **Accounting Systems Analyst**, where I deal with SAP FI configurations, foreign currency valuation and translation, and automation of financial processes.
 
-I'm currently studying **Programming at UTN (Universidad Tecnológica Nacional)** and learning to code through self-study and hands-on projects.
+I'm currently studying for an **Associate Degree in Programming, Computer Science at UTN (Universidad Tecnológica Nacional)** and learning to code through self-study and hands-on projects.
 
 ---
 
