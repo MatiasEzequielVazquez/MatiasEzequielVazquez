@@ -12,7 +12,6 @@ I'm building my skills in:
 - `C#` and `.NET` (focused on backend development)
 - `Python` (for scripting and automation)
 - `SQL` and basic data handling
-- `Power Automate`, `Power Query`, `Power Pivot`, and `Power BI`
 - Software development best practices (SOLID, clean code, Git, etc.)
 
 ---
