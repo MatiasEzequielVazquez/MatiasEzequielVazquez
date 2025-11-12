@@ -1,5 +1,5 @@
 
-Hi! I'm **Matías**, a software developer in training from Argentina 🇦🇷, passionate about learning and building things with code.
+Hi! I'm **Matías**, a software developer from Argentina 🇦🇷, passionate about learning and building things with code.
 
 I'm currently studying for an **Associate Degree in Programming, Computer Science at UTN (Universidad Tecnológica Nacional)** and learning to code through self-study and hands-on projects.
 
