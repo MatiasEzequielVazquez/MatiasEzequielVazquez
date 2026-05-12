@@ -1,16 +1,23 @@
+# Hi, I'm Matías
 
-Hi! I'm **Matías**, a software developer from Argentina 🇦🇷, passionate about learning and building things with code.
-
-I'm currently studying for an **Associate Degree in Programming, Computer Science at UTN (Universidad Tecnológica Nacional)** and learning to code through self-study and hands-on projects.
+**Backend & Integration Engineer · Argentina**
 
 ---
 
-I'm building my skills in:
+I work at the intersection of enterprise systems and custom automation — building Python ETL pipelines, SAP BTP integrations in production.
 
-- `C#` and `.NET` (focused on backend development)
-- `Python` (for scripting and automation)
-- `SQL` and basic data handling
-- Software development best practices (SOLID, clean code, Git, etc.)
+Open to remote opportunities in backend, integrations, and platform engineering.
+
+---
+
+### What I work with
+
+- **Python** — ETL pipelines, automation, scripting
+- **Java / Spring Boot** — backend development, REST APIs
+- **SAP BTP / CPI** — enterprise system integrations
+- **SQL** — MySQL, PostgreSQL, SQLite
+- **Selenium** — web automation & scraping
+- **Linux / Ubuntu** — homelab, VMs, systemd services
 
 ---
 
