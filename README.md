@@ -21,4 +21,12 @@ Open to remote opportunities in backend, integrations, and platform engineering.
 
 ---
 
+### Lenguages
+<!-- LANG_STATS_START -->
+<!-- LANG_STATS_END -->
+
+
+---
+
+
 Feel free to reach out through [**Email**](mailto:vazquez.matias.e@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/matias-e-vazquez/)
