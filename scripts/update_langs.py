@@ -67,7 +67,7 @@ def build_section(lang_totals):
     top = sorted_langs[:TOP_N]
     total = sum(v for _, v in sorted_langs)
 
-    lines = ["### Languages", ""]
+    lines = [""]
     lines.append("```text")
 
     for lang, bytes_ in top:
