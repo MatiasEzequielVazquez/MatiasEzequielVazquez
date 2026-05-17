@@ -23,7 +23,7 @@ Open to remote opportunities in backend, integrations, and platform engineering.
 
 ### Lenguages
 <!-- LANG_STATS_START -->
-### 🧑‍💻 Languages
+### Languages
 
 ```text
 Python               ██████████████████░░   92.3%
