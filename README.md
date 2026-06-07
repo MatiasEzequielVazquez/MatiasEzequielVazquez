@@ -28,7 +28,7 @@ Open to remote opportunities in backend, integrations, and platform engineering.
 Python               ██████████████████░░   92.3%
 HTML                 █░░░░░░░░░░░░░░░░░░░    4.1%
 C#                   ░░░░░░░░░░░░░░░░░░░░    1.8%
-Java                 ░░░░░░░░░░░░░░░░░░░░    0.5%
+Java                 ░░░░░░░░░░░░░░░░░░░░    0.6%
 C                    ░░░░░░░░░░░░░░░░░░░░    0.5%
 JavaScript           ░░░░░░░░░░░░░░░░░░░░    0.2%
 TypeScript           ░░░░░░░░░░░░░░░░░░░░    0.2%
