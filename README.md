@@ -6,7 +6,7 @@
 
 I work at the intersection of enterprise systems and custom automation — building Python ETL pipelines, SAP BTP integrations in production.
 
-Open to remote opportunities in backend, integrations, and platform engineering.
+Open to remote opportunities in backend, integrations, and data engineering.
 
 ---
 
