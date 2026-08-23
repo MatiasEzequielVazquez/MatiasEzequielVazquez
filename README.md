@@ -25,12 +25,12 @@ Open to remote opportunities in backend, integrations, and data engineering.
 <!-- LANG_STATS_START -->
 
 ```text
-Python               ██████████████████░░   92.1%
+Python               ██████████████████░░   92.0%
 HTML                 █░░░░░░░░░░░░░░░░░░░    4.0%
 C#                   ░░░░░░░░░░░░░░░░░░░░    1.8%
 Java                 ░░░░░░░░░░░░░░░░░░░░    0.6%
 C                    ░░░░░░░░░░░░░░░░░░░░    0.5%
-JavaScript           ░░░░░░░░░░░░░░░░░░░░    0.2%
+JavaScript           ░░░░░░░░░░░░░░░░░░░░    0.4%
 TypeScript           ░░░░░░░░░░░░░░░░░░░░    0.2%
 ```
 
