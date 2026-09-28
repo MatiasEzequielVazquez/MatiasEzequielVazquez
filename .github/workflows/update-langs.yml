@@ -23,10 +23,18 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Run unit tests
+        run: python -m unittest discover tests
+
       - name: Run language update script
         env:
           GH_TOKEN: ${{ secrets.LANG_STATS_TOKEN }}
           GH_USER: MatiasEzequielVazquez
+          # Optional configurations (defaults are already active in script):
+          # EXCLUDE_LANGS: "HTML,CSS,SCSS,Less,Jupyter Notebook,Roff,Shell,Batchfile,Dockerfile,Makefile,TeX"
+          # EXCLUDE_REPOS: "MatiasEzequielVazquez"
+          # BAR_STYLE: "smooth"
+          # TOP_N: "7"
         run: python scripts/update_langs.py
 
       - name: Commit and push if changed
